@@ -1,3 +1,3 @@
-# react-quizzer
+# Image editor 
 
-React native image editor
+Simple image editor using react native
